@@ -1,0 +1,17 @@
+body {
+  background: yellow;
+  text-align: center;
+  font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+}
+
+h2 {
+  font-style: italic;
+}
+
+pre {
+  font-size: 72pt;
+  border: 10px dotted black;
+  padding: .25em;
+  margin: 0.25em 0;
+  display: inline-block;
+}
